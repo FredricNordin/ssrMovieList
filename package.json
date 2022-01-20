@@ -1,0 +1,25 @@
+{
+  "name": "ssrmovielist",
+  "version": "1.0.0",
+  "description": "ServerSideRendering a list of movies from API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/fredricnordin/ssrmovielist.git"
+  },
+  "author": "Fredric Nordin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fredricnordin/ssrmovielist/issues"
+  },
+  "homepage": "https://github.com/fredricnordin/ssrmovielist#readme",
+  "dependencies": {
+    "express": "^4.17.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
