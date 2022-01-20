@@ -9,5 +9,5 @@ server.get('/', async (request, response) => {
   response.send(fileRender);
 });
 
-app.listen(5080);
+server.listen(5080);
 console.log('SERVER IS UP AND RUNNING ON PORT 5080')
